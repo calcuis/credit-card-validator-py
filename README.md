@@ -20,3 +20,6 @@ Main Section `(if name == "main")`:
 - Finally, it prints whether the entered credit card number is valid or not based on the Luhn algorithm.
 
 Overall, this script implements a basic credit card number validator using the Luhn algorithm to check the validity of the entered credit card number.
+
+## Reference
+https://github.com/calcuis/credit-card-validator
